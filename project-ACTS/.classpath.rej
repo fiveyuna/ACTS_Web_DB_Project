@@ -1,0 +1,20 @@
+diff a/project-ACTS/.classpath b/project-ACTS/.classpath	(rejected hunks)
+@@ -24,14 +24,16 @@
+ 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+ 		</attributes>
+ 	</classpathentry>
++	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
++	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+ 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+ 		<attributes>
+ 			<attribute name="owner.project.facets" value="jst.web"/>
+ 		</attributes>
+ 	</classpathentry>
+-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
++	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_271">
+ 		<attributes>
+-			<attribute name="maven.pomderived" value="true"/>
++			<attribute name="owner.project.facets" value="java"/>
+ 		</attributes>
+ 	</classpathentry>
+ 	<classpathentry kind="lib" path="C:/Users/yuna9/OneDrive/바탕 화면/대학생활/2학기/데배프/팀플/somature/httpcomponents-client-5.1.1-bin/lib/commons-cli-1.4.jar"/>
